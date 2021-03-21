@@ -1,0 +1,7 @@
+C:\Users\tlvla\source\repos\First CS Project\Library\bin\Debug\Library.exe.config
+C:\Users\tlvla\source\repos\First CS Project\Library\bin\Debug\Library.exe
+C:\Users\tlvla\source\repos\First CS Project\Library\bin\Debug\Library.pdb
+C:\Users\tlvla\source\repos\First CS Project\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\tlvla\source\repos\First CS Project\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\tlvla\source\repos\First CS Project\Library\obj\Debug\Library.exe
+C:\Users\tlvla\source\repos\First CS Project\Library\obj\Debug\Library.pdb
